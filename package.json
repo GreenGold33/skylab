@@ -1,11 +1,10 @@
 {
-  "name": "skylabcoders",
-  "version": "0.0.3",
+  "name": "skylab",
+  "version": "0.0.1",
   "description": "SkyLab Coders Academy web launcher",
   "main": "index.js",
   "bin": {
-    "skylab": "index.js",
-    "skylabcoders": "index.js"
+    "skylab": "index.js"
   },
   "scripts": {
     "start": "node .",
